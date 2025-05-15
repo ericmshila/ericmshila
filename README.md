@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Codewars](https://github.r2v.ch/codewars?user=ericmshila&stroke=COLOR)
 
-https://leetcard.jacoblin.cool/emshila?theme=light&font=Annie%20Use%20Your%20Telescope
+![Leetcode Stats](https://leetcard.jacoblin.cool/emshila?theme=light&font=Annie%20Use%20Your%20Telescope)
+
 
 
