@@ -1,4 +1,4 @@
-## Hi there. Aspiring Engineer👋
+## Aspiring Engineer👋
 
 <!--
 **ericmshila/ericmshila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ![Codewars](https://github.r2v.ch/codewars?user=ericmshila&stroke=COLOR)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emshila?theme=light&font=Annie%20Use%20Your%20Telescope)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/emshila19)
 
 
 
